@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/empty-arms-cold-night/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Empty Arms Cold Night](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/empty-arms-cold-night/) |
+| **Get License** | [Official Music Licensing for Empty Arms Cold Night](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/empty-arms-cold-night/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `20c6684fadc11561fef5a7bc46b3732e36f01b0daf2ae59d8cdf779cd8ecac26` |
 | **Timestamp** | June 10, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
