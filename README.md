@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/empty-arms-cold-night/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Empty Arms Cold Night](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/empty-arms-cold-night/) |
+| **Get License** | [Request Licensing for Empty Arms Cold Night](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/empty-arms-cold-night/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I trace the embers glowing in the dark
+> Just waiting for your touch to be the spark
+> You pull me closer, stepping in the light
+> No empty arms to hold this cold, cold night
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
