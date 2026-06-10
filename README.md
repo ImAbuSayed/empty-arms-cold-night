@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/empty-arms-cold-night/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Empty Arms Cold Night](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/empty-arms-cold-night/) |
+| **Get License** | [Get License For Empty Arms Cold Night](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/empty-arms-cold-night/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/2943)
 
 ---
 
